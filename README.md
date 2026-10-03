@@ -15,15 +15,17 @@ This repository is the public home for WASendly documentation, release notes and
 - Import contacts from an Excel or CSV file
 - Send to numbers that are not saved in your phone book
 - Message templates
+- Attach images, videos, PDFs and Word documents
 - Number validation before sending
 - Randomized delays between messages, so sending is paced and not a burst
 - Sending reports
-- Runs in your own WhatsApp Web session, in your browser
+- Works with a normal WhatsApp account on WhatsApp Web; no Business API needed
+- Works on Chrome, Edge, Brave, Opera and Vivaldi
 
 ## How to use it
 
 1. Install WASendly from the [Chrome Web Store](https://chromewebstore.google.com/detail/nhdbfplejhncelchgoknmkmndladimmp?utm_source=github&utm_medium=readme&utm_campaign=wasendly_bulk_sender).
-2. Open WhatsApp Web in Chrome and log in.
+2. Open WhatsApp Web in your browser and log in.
 3. Import your contact list from Excel or CSV, or paste the numbers.
 4. Write your message or pick a template.
 5. Set the delay and start sending.
@@ -39,9 +41,9 @@ WhatsApp restricts and bans accounts that send unsolicited bulk messages. Delays
 - Say who you are and give people a way to stop receiving messages
 - For high-volume or automated business messaging, the official WhatsApp Business Platform is the right tool
 
-## Pricing
+## Pricing and privacy
 
-WASendly is free to install and includes a free plan. Paid plans are listed on the [extension page](https://www.addonschrome.com/extensions/wasendly-whatsapp-bulk-message-sender.html?utm_source=github&utm_medium=readme&utm_campaign=wasendly_bulk_sender).
+WASendly is free to install and includes a free plan. Data is processed locally on your device: your contacts and messages are not uploaded to external servers.
 
 ## Screenshots
 
